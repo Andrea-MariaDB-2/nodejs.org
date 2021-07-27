@@ -1,8 +1,12 @@
 ---
-name: 🐛 Bug Report
-about: If something isn't working as expected 🤔.
+name: "\U0001F41B Bug Report"
+about: "If something isn't working as expected \U0001F914."
+title: ''
+labels: ''
+assignees: ''
 
 ---
+
 <!--
 Thanks for wanting to report an issue you've found on the nodejs.org website.
 
